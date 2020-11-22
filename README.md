@@ -3,3 +3,6 @@ This repository contains the files needed for creating a Generative Adversarial 
 
 # Architecture
 ![Final Architecture of the BPR-GAN](Bilder/final_architecture.png?raw=true "Title")
+
+# Findings
+While the GAN at its current stage might not be able to fully support BPR, its potential remains. With more granular and bigger datasets, the incremental nature of our process improvements might change to a more radical one.
